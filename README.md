@@ -1,1 +1,3 @@
 # ArvoreBPlus_ArvoreBStar
+
+Implemente um Sistema de Indexação de Dados para um Banco de Dados de Produtos com ID, nome, categoria Utilizando o arquivo de dados. Faça duas aplicações, uma utilizando Árvore B+ e outra utilizando Árvore B*, ambas de ordem 3. Insira todos os dados do arquivo nas árvores. Calcule o tempo para realizar a insersão dos dados em cada árvore. Sorteie aleatoriamente 10 produtos com chaves variando de 1000 a 2000. Caso o produto se encontre na árvore, remover o produto, caso não se encontre na árvore informar que o dado não foi encontrado. Calcule o tempo para fazer a remoção dos elementos na árvore.
